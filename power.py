@@ -25,7 +25,7 @@ def main():
             answer_number = answer_number * first_number
 
         # output
-        print("{}".format(answer_number))
+        print("Answer: {}".format(answer_number))
 
     except Exception:
         # output
